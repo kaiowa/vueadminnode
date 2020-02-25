@@ -1,2 +1,5 @@
 # vueadminnode
-vue administrator example with nodejs and jwt
+vue+vuex administrator example with nodejs and jwt
+
+
+
