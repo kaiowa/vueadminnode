@@ -1,9 +1,8 @@
 {
-  "name": "a4u-cms",
+  "name": "nodevueback",
   "version": "0.0.1",
-  "description": "Alert4you CMS",
+  "description": "nodevueback",
   "main": "index.js",
-  "author": "Alert4U Team",
   "dependencies": {
     "bcrypt": "^3.0.6",
     "bcryptjs": "^2.4.3",
