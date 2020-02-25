@@ -1,0 +1,11 @@
+.login{
+  // background-color: $redFire;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+  flex-direction: column;
+  .title{
+    margin-bottom: 50px;
+  }
+}
